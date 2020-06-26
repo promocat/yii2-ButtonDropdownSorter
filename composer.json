@@ -1,5 +1,5 @@
 {
-    "name": "rsr/yii2-button-dropdown-sorter",
+    "name": "promocat/yii2-button-dropdown-sorter",
     "description": "Bootstrap ButtonDropdown to use as sorter in yii2",
     "keywords": ["yii2", "bootstrap", "dropdown", "sorter"],
     "type": "yii2-extension",
@@ -12,7 +12,7 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "yiisoft/yii2-bootstrap": "*"
+        "yiisoft/yii2-bootstrap4": "*"
     },
     "autoload": {
         "psr-4": {

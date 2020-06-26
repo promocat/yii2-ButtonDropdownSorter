@@ -9,13 +9,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require rsr/yii2-button-dropdown-sorter
+php composer.phar require promocat/yii2-button-dropdown-sorter
 ```
 
 or add
 
 ```
-"rsr/yii2-button-dropdown-sorter": "*"
+"promocat/yii2-button-dropdown-sorter": "*"
 ```
 
 to the require section of your `composer.json` file.
