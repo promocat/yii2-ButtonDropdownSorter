@@ -80,7 +80,7 @@ class ButtonDropdownSorter extends Widget
         if (empty($this->label))
             $this->label = 'Sort';
 
-        return \yii\bootstrap\ButtonDropdown::widget([
+        return \yii\bootstrap4\ButtonDropdown::widget([
             'label' => $this->label,
             'dropdown' => [
                 'items' => $links
