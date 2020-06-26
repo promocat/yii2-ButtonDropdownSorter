@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "rsr\\yii2\\": ""
+            "promocat\\yii2\\": ""
         }
     }
 }
